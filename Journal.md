@@ -2,7 +2,11 @@
 
 ## Java Fundamentals
 
-August 26, 2023
+### **DAY 1** - August 26, 2023
 - Java's history.
 - How Java works. <br>
 :key:: Oak, WebRunners, James Gosling, jvm, jdk/jre, bytecode, JavaC
+
+### **DAY 2** - August 27, 2023
+- Installing JDK and setting up my development environment
+:key:: NetBeans, Java versions
