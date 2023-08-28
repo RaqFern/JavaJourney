@@ -9,4 +9,5 @@
 
 ### **DAY 2** - August 27, 2023
 - Installing JDK and setting up my development environment
-:key:: NetBeans, Java versions
+- Writing my first Java program 
+:key:: NetBeans, Java versions, CamelCase(for ref. Class 04 curso em vídeo)
