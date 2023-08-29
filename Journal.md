@@ -13,5 +13,5 @@
 :key:: NetBeans, Java versions, CamelCase(for ref. Class 04 curso em vídeo)  
 
 ### **DAY 3** - August 28, 2023
-- Syntax, output, variables, Data Types (reading and exercises on https://www.w3schools.com/java/java_syntax.asp)
+- Syntax, output, variables, Data Types (reading and exercises on https://www.w3schools.com/java/java_syntax.asp)  
 :key:: java methods, primitive/non-primitive data types
