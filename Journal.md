@@ -16,3 +16,10 @@
 - Syntax, output, variables, Data Types  
  (reading and exercises on https://www.w3schools.com/java/java_syntax.asp)  
 :key:: java methods, primitive/non-primitive data types
+
+### **DAY 4** - August 29, 2023
+- Review previous topics
+- Logical Operators, Arithmetic Operators
+- hands on exercises 
+ (all of the above during Class 4 (a-h) of Capgemini Java bootcamp )  
+:key:: Operators
