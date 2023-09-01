@@ -19,7 +19,7 @@
 
 ### **DAY 4** - August 29, 2023
 - Review previous topics
-- Logical Operators, Arithmetic Operators, Assignment Operators, Comparison Operators
+- Logical Operators, Arithmetic Operators, Assignment Operators, Comparison Operators, briefly Conditionals - IF
 - hands on exercises 
  (all of the above during Class 4 (a-h) of Capgemini Java bootcamp )  
 :key:: Operators
