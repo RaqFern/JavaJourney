@@ -26,4 +26,4 @@
 
 ### **DAY 5** - August 31, 2023
 
-- Switch case (reading, lecture and exercises)
+- Switch case (reading, lecture and exercises) - Class 4 (i) of Capgemini Java bootcamp ) 
