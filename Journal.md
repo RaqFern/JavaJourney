@@ -19,7 +19,11 @@
 
 ### **DAY 4** - August 29, 2023
 - Review previous topics
-- Logical Operators, Arithmetic Operators
+- Logical Operators, Arithmetic Operators, Assignment Operators, Comparison Operators
 - hands on exercises 
  (all of the above during Class 4 (a-h) of Capgemini Java bootcamp )  
 :key:: Operators
+
+### **DAY 5** - August 31, 2023
+
+- Switch case (reading, lecture and exercises)
