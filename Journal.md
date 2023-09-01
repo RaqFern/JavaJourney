@@ -29,5 +29,6 @@
 - Switch case (reading, lecture and exercises) - Class 4 (i) of Capgemini Java bootcamp )
   references:  https://www.simplilearn.com/tutorials/java-tutorial/switch-case-in-java  
                https://www.programiz.com/java-programming/switch-statement  
-               https://www.w3schools.com/java/java_switch.asp  
+               https://www.w3schools.com/java/java_switch.asp
+               https://www.upgrad.com/br/learn/object-oriented-programming-tutorial/what-is-a-real-life-example-of-a-switch-statement-5405-32428-192349-592256-3026273/
                
