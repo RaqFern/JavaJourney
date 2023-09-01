@@ -27,7 +27,7 @@
 ### **DAY 5** - August 31, 2023
 
 - Switch case (reading, lecture and exercises) - Class 4 (i) of Capgemini Java bootcamp )
-  references:  https://www.simplilearn.com/tutorials/java-tutorial/switch-case-in-java
-               https://www.programiz.com/java-programming/switch-statement
-               https://www.w3schools.com/java/java_switch.asp
+  references:  https://www.simplilearn.com/tutorials/java-tutorial/switch-case-in-java  
+               https://www.programiz.com/java-programming/switch-statement  
+               https://www.w3schools.com/java/java_switch.asp  
                
