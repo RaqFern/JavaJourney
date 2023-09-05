@@ -31,4 +31,8 @@
                https://www.programiz.com/java-programming/switch-statement  
                https://www.w3schools.com/java/java_switch.asp
                https://www.upgrad.com/br/learn/object-oriented-programming-tutorial/what-is-a-real-life-example-of-a-switch-statement-5405-32428-192349-592256-3026273/
-               
+  
+### **DAY 6** - September 04, 2023               
+- Conditions and If Statements (reading, class No. 4.J of Capgemini bootcamp and exercises)
+:key:: Ternary operator  
+references: https://www.w3schools.com/java/java_conditions.asp 
