@@ -14,11 +14,11 @@
 
 ### **DAY 3** - August 28, 2023
 - Syntax, output, variables, Data Types  
- (reading and exercises on https://www.w3schools.com/java/java_syntax.asp)  
+ (reading and practicing on https://www.w3schools.com/java/java_syntax.asp)  
 :key:: java methods, primitive/non-primitive data types
 
 ### **DAY 4** - August 29, 2023
-- Review previous topics
+- Revising previous topics
 - Logical Operators, Arithmetic Operators, Assignment Operators, Comparison Operators, briefly Conditionals - IF
 - hands on exercises 
  (all of the above during Class 4 (a-h) of Capgemini Java bootcamp )  
@@ -26,13 +26,19 @@
 
 ### **DAY 5** - August 31, 2023
 
-- Switch case (reading, lecture and exercises) - Class 4 (i) of Capgemini Java bootcamp )
+- Switch case (reading, lecture and practicing) - Class 4 (i) of Capgemini Java bootcamp )
   references:  https://www.simplilearn.com/tutorials/java-tutorial/switch-case-in-java  
                https://www.programiz.com/java-programming/switch-statement  
                https://www.w3schools.com/java/java_switch.asp
                https://www.upgrad.com/br/learn/object-oriented-programming-tutorial/what-is-a-real-life-example-of-a-switch-statement-5405-32428-192349-592256-3026273/
   
 ### **DAY 6** - September 04, 2023               
-- Conditions and If Statements (reading, class No. 4.J of Capgemini bootcamp and exercises)
+- Conditions and If Statements (practicing, reading and wacthing class No. 4.J of Capgemini bootcamp)
 :key:: Ternary operator  
 references: https://www.w3schools.com/java/java_conditions.asp 
+
+### **DAY 7** - September 05, 2023   
+- Revising and practicing previous topics,
+- Going further on Strings: methods, concatenation, special Characters
+- introduction to For Loop
+  
