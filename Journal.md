@@ -33,7 +33,7 @@
                https://www.upgrad.com/br/learn/object-oriented-programming-tutorial/what-is-a-real-life-example-of-a-switch-statement-5405-32428-192349-592256-3026273/
   
 ### **DAY 6** - September 04, 2023               
-- Conditions and If Statements (practicing, reading and wacthing class No. 4.J of Capgemini bootcamp)
+- Conditionals (practicing, reading and wacthing class No. 4.J of Capgemini bootcamp)
 :key:: Ternary operator  
 references: https://www.w3schools.com/java/java_conditions.asp 
 
@@ -41,4 +41,11 @@ references: https://www.w3schools.com/java/java_conditions.asp
 - Revising and practicing previous topics,
 - Going further on Strings: methods, concatenation, special Characters
 - introduction to For Loop
+
+### **DAY 8** - September 09, 2023
+- Introdution to Java OOPs Concepts and OOP in general
+:key::
+:mag:: Simula, SmallTalk
+references: https://www.javatpoint.com/java-oops-concepts
+  
   
