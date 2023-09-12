@@ -49,8 +49,8 @@ references: https://www.javatpoint.com/java-oops-concepts
 
 ### **DAY 9** - September 11, 2023
 - starting a new Java course at Fundação Bradesco, resuming  OOP
-- Loops: going further in For loop and nested loop, while loop, break/continue
-References: best teorical explanation of neted loops ever: https://www.youtube.com/watch?v=H7frvcAHXps&t=40s&ab_channel=TheCodingTrain
+- Loops: going further in For loop and nested loop, while loop, break/continue  
+References: best teorical explanation of neted loops ever: https://www.youtube.com/watch?v=H7frvcAHXps&t=40s&ab_channel=TheCodingTrain  
 New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6&ab_channel=TheCodingTrain
  
   
