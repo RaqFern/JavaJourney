@@ -54,7 +54,8 @@ References: best teorical explanation of neted loops ever: https://www.youtube.c
 New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=PLzJbM9-DyOZyMZzVda3HaWviHqfPiYN7e&index=6&ab_channel=TheCodingTrain
 
 ### **DAY 10** - September 14, 2023
- - Dynamic Programing with Java - course  for beginners: https://www.youtube.com/watch?v=oFkDldu3C_4&t=2s&ab_channel=freeCodeCamp.org
+- Revising previous topics  
+- Dynamic Programing with Java - course  for beginners: https://www.youtube.com/watch?v=oFkDldu3C_4&t=2s&ab_channel=freeCodeCamp.org  
 :key:: memoization, data structure
 
   
