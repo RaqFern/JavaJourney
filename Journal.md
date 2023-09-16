@@ -61,5 +61,8 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 ### **DAY 11** - September 15, 2023
 - Started a new course at Udemy, with professor Nelio Alves
 - Casting
+
+### **DAY 12** - September 16, 2023
+- Inputs, Scanner  
   
   
