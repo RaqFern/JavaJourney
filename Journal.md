@@ -58,5 +58,8 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 - Dynamic Programing with Java - course  for beginners: https://www.youtube.com/watch?v=oFkDldu3C_4&t=2s&ab_channel=freeCodeCamp.org  
 :key:: memoization, data structure
 
+### **DAY 11** - September 15, 2023
+- Started a new course at Udemy, with professor Nelio Alves
+- Casting
   
   
