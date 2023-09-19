@@ -63,6 +63,10 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 - Casting
 
 ### **DAY 12** - September 16, 2023
-- Inputs, Scanner  
+- Inputs, Scanner
+
+ ### **DAY 13** - September 18, 2023  
+ - Finished section 4 of POO course at Udemy, practicing solving problems with Java
+ - Started Java's learning path by oracle
   
   
