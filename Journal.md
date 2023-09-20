@@ -68,5 +68,8 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
  ### **DAY 13** - September 18, 2023  
  - Finished section 4 of POO course at Udemy, practicing solving problems with Java
  - Started Java's learning path by oracle
+
+ ### **DAY 14** - September 19, 2023  
+ - practicing the previous topics by solving math problems with Java. Classes 28/29 of the Java Course by Nelio Alves
   
   
