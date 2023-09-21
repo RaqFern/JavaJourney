@@ -71,5 +71,12 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 
  ### **DAY 14** - September 19, 2023  
  - practicing the previous topics by solving math problems with Java. Classes 28/29 of the Java Course by Nelio Alves
+
+ ### **DAY 15** - September 20, 2023  
+ - still practicing the previous topics, just finished the exercices called "solving problems". Classes 28/29 of the Java Course by Nelio Alves
+ - Revising Java operators and conditionals
+
+   
+
   
   
