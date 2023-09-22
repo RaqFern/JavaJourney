@@ -76,6 +76,9 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
  - still practicing the previous topics, just finished the exercices called "solving problems". Classes 28/29 of the Java Course by Nelio Alves
  - Revising Java operators and conditionals
 
+### **DAY 16** - September 21, 2023  
+- Introduction to Angular
+- Practicing operators
    
 
   
