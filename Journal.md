@@ -83,6 +83,10 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 ### **DAY 17** - September 26, 2023  
 - Practicing if...else and Ternary Operator
 - Finished OCI foundations course (non related but worth it)
+
+### **DAY 18** - September 28, 2023 
+- Practing while structures
+
    
 
   
