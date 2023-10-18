@@ -89,6 +89,10 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 
 ### **DAY 19** - October 04, 2023 
 - Practicing FOR LOOP structures
+
+### **DAY 20** - October 17, 2023 
+- Practicing DO WHILE structures
+
    
 
   
