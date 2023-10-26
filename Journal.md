@@ -93,6 +93,9 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 ### **DAY 20** - October 17, 2023 
 - Practicing DO WHILE structures
 
+### **DAY 21** - October 25, 2023 
+- Bitwise operators
+
    
 
   
