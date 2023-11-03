@@ -96,6 +96,10 @@ New fave coding youtube chanel https://www.youtube.com/watch?v=_F_qZBWmjyI&list=
 ### **DAY 21** - October 25, 2023 
 - Bitwise operators
 
+### **DAY 22** - November 02, 2023 
+- Solving challenges at https://www.hackerrank.com/  
+![image](https://github.com/RaqFern/JavaJourney/assets/77596704/61be8b27-f501-49d8-a0d0-2fae8fb709d0)  
+
    
 
   
